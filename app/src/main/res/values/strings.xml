@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="act_2">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="GoTo">GoTo</string>
+    <string name="button3">OpenWebBrowser</string>
+</resources>
